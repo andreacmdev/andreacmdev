@@ -1,7 +1,9 @@
 ## Olá Devs, tudo bem? Me chamo André Machado e é um prazer ter vocês por aqui.
 
-- 🔭 Trabalhando com Back-End
-- 🌱 Graduando em Análise e desenvolvimento de sistemas
+- 🔭 Trabalhando com Back-End;
+- 🌱 Graduando em Análise e desenvolvimento de sistemas;
+- Curos: Desenvolvedor Back-End Java (Ada/LetsCode);
+         Desenvolvedor Web Full-Stack (Alura/Oracle);
 
 ##
 
