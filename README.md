@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando com Back-End;
 - 🌱 Graduando em Análise e desenvolvimento de sistemas;
-- Curos: Desenvolvedor Back-End Java (Ada/LetsCode);
+- 📚 Desenvolvedor Back-End Java (Ada/LetsCode);
          Desenvolvedor Web Full-Stack (Alura/Oracle);
 
 ##
