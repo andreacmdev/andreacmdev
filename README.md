@@ -3,7 +3,7 @@
 - 🔭 Trabalhando com Back-End;
 - 🌱 Graduando em Análise e desenvolvimento de sistemas;
 - 📚 Desenvolvedor Back-End Java (Ada/LetsCode);
-         Desenvolvedor Web Full-Stack (Alura/Oracle);
+- 📚 Desenvolvedor Web Full-Stack (Alura/Oracle);
 
 ##
 
