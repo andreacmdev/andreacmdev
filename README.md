@@ -8,6 +8,12 @@
 ##
 
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=andreacmdev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/andreacmdev/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=andreacmdev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/andreacmdev/github-readme-stats#gh-light-mode-only)
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreacmdev&layout=compact&show_icons=true&theme=dark)](https://github.com/andreacmdev/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dede-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Dede-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
