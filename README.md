@@ -1,6 +1,6 @@
 ## Olá Devs, tudo bem? Me chamo André Machado e é um prazer ter vocês por aqui.
 
-- 🔭 Trabalhando com SQL;
+- 🔭 Trabalhando com SQL e Python;
 - 📖 Estudando Java
 - 📖 Graduando em Análise e desenvolvimento de sistemas;
 - 📚 Desenvolvedor Back-End Java (Ada/LetsCode);
