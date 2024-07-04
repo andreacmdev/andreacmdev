@@ -1,7 +1,7 @@
 ## Olá Devs, tudo bem? Me chamo André Machado e é um prazer ter vocês por aqui.
 
 - 🔭 Trabalhando com SQL e Python;
-- 📖 Estudando Java
+- 📖 Estudando Java e NodeJS
 - 📖 Graduando em Análise e desenvolvimento de sistemas;
 - 📚 Desenvolvedor Back-End Java (Ada/LetsCode);
 - 📚 Desenvolvedor Web Full-Stack (Alura/Oracle);
@@ -17,12 +17,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dede-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Dede-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dede-NodeJs" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=webp&w=256">
   <img align="center" alt="Dede-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dede-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dede-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Dede-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Dede-Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Dede-Oracle" height="40" width="40" src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png">
   </div>
   
   ##
