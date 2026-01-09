@@ -55,14 +55,6 @@ Também estou sempre evoluindo na área de desenvolvimento — especialmente com
 
 ---
 
-## 📊 GitHub Stats
-
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andreacmdedev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreacmdedev&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🚀 Áreas que mais atuo
 
 ✔ ETL e pipelines de dados  
