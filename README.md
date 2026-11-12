@@ -127,15 +127,6 @@ Acredito no aprendizado contínuo, especialmente em arquitetura de software, eng
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreacmdev&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreacmdev&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
-
-*As estatísticas refletem a atividade pública disponível no GitHub e não representam toda a experiência profissional.*
-
----
 
 ## 📫 Vamos nos conectar?
 
